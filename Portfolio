@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Khawar Kayani - Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Hello, I'm Khawar Kayani</h1>
+    <p>Aspiring Web Developer | C++ Learner | Pakistan 🇵🇰</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      I'm learning programming from scratch, currently focused on C++ and web development. 
+      I'm passionate about building real-world projects and growing my skills every day.
+    </p>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li>🖥️ C++ Calculator</li>
+      <li>🌐 Personal Website (this one!)</li>
+      <li>📋 To-Do App (Coming Soon)</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Connect with me on GitHub: <a href="https://github.com/khawarkayani47" target="_blank">khawarkayani47</a></p>
+  </footer>
+</body>
+</html>
